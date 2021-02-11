@@ -1,0 +1,22 @@
+.conatiner {
+  display: flex;
+  justify-content: center;
+}
+
+#left {
+  text-align: left;
+  width: 300px;
+}
+
+.content {
+  max-width: 700px;
+  font-size: 20px;
+}
+
+img {
+  padding: 20px;
+}
+
+a.brand-logo {
+  padding-left: 10px;
+}
