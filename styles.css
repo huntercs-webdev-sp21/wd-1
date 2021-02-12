@@ -22,7 +22,10 @@ a.brand-logo {
 }
 
 .horizontal {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+}
 
+.homepage-video {
+  margin: 40px;
 }
