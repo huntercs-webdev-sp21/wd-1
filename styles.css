@@ -20,3 +20,9 @@ img {
 a.brand-logo {
   padding-left: 10px;
 }
+
+.horizontal {
+    display: flex;
+    justify-content: center;
+
+}
